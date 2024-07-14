@@ -1,6 +1,6 @@
 import "package:flutter/material.dart";
 
-import "package:flutter_ozoo/Pages/Home.dart";
+import "package:flutter_ozoo/views/Home.dart";
 
 void main(List<String> args) {
   runApp(const App());
